@@ -1,10 +1,9 @@
 streamlit
-python-docx
-PyPDF2
-Pillow
-pytesseract
-transformers
-torch
 pandas
-plotly
+numpy
+pdfplumber
+pillow
+transformers==4.41.2
+torch
+sentencepiece
 reportlab
